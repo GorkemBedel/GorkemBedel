@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Bedel</h1>
 <h3 align="center">Computer Engineer student at Hacettepe Unıversity.</h3>
-<img align="right" alt="Coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
-
 
 - 🔭 I’m currently studying **at Hacettepe University.**
 
@@ -12,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/görkem-bedel-46670b255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="görkem-bedel-46670b255" height="30" width="40" /></a>
+<a href="https://instagram.com/grkmbdl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="grkmbdl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gorkem_bedel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gorkem_bedel" height="30" width="40" /></a>
 </p>
 

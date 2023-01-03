@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Görkem Bedel</h1>
-<h3 align="center">Computer Engineer student at Hacettepe Unıversity.</h3>
+<h3 align="center">Computer Engineer student at Hacettepe University.</h3>
 
 - 🔭 I’m currently studying **at Hacettepe University.**
 
